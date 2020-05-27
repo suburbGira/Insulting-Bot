@@ -27,49 +27,10 @@ logging.basicConfig()
 #//////////////////////////////////////////////////////
 
 possible_responses = [
-  "Nobody likes you",
-  "Ur ugly",
-  "It is quite possible that you are dumb",
-  "That's what she said",
-  "I know you are but what am I?",
-  "You live like simple cattle or irrational pigs and, despite the fact that the gospel has returned, have mastered the fine art of misusing all your freedom",
-  "Don't feel bad, there are many people who have no talent!",
-  "I'd like to kick you in the teeth, but why should I improve your looks?",
-  "At least there's one thing good about your body, it's not as ugly as your face",
-  "Brains aren't everything. In fact, in your case they're nothing",
-  "Did your parents ever ask you to run away from home?",
-  "If I had a face like yours I'd sue my parents",
-  "Any similarity between you and a human is purely coincidental",
-  "Keep talking - someday you'll say something intelligent",
-  "Don't you love nature, despite what it did to you?",
-  "You're a man of the world. And you know what sad shape the world is in",
-  "How much refund do you expect on your head now it's empty?",
-  "You're like the end pieces of a loaf of bread. Everyone touches you, but nobody wants you",
-  "You're not pretty enough to be that stupid",
-  "I would love to insult you but I'm afraid I won't do it as well as nature did",
-  "Somewhere out there, there's a tree whose single purpose on earth is to replace the oxygen you waste. Go find it and apologize",
-  "I have neither the time nor the crayons to explain anything to you",
-  "Are you naturally this dumb or do you have to put in effort",
-  "You consistently set low expectations and fail to achieve them",
-  "Just quit being yourself",
-  "If I wanted to kill myself, I'd climb up your ego, and jump to your IQ",
-  "I refuse to enter a battle of wits with an unarmed opponent",
-  "Life is full of disappointments, just ask your parents",
-  "When your mom dropped you off at school, she got a fine for littering",
-  "You shouldn't act hard-to-get when you're hard-to-want",
-  "Shall I compare thee to a summers day because thou art so temperate that your heat is triple that of the epicenter of the Tsar Bomb Explosion.",
-  "Your face killed more people than Communism",
-  "You have more chins than a Chinese phone directory",
-  "HONK HONK, IT IS THE CLOWN CAR, YOU CLOWN, GET THE F*CK IN",
-  "I am going to defenestrate you",
-  "You are just like iron sulfide, a dull grey lifeless lump",
-  "There are approximately 1,010,300 words in the English language, but I could never string enough words to express how much everyone wants to hit you with a chair",
-  "You are proof that God has a sense of humor"
+  "fuck off twat",
 ]
 possible_nice_responses = [
-  "Your face makes other people ugly",
-  "You have really good taste in discord servers! (I.E. This one)",
-  "Luckily, I'm not a drug, because you would be a nasty addict seeing how much you use me, seeing this is a message that appears less that 1/100 times",
+  "fuckn't off twat",
 ]
 on_message_responses = ["no u", "uno reverse", "reverse of reverse", "owo", "uwu", "stfu", "finger_guns", "@insulting bot"]
 itdoeswhatyousay = ["kill me", "<:kms:686241691363311631>", "<:kms_weeb:686238052972232759>"]
